@@ -1,2 +1,5 @@
-# House-Price-Prediction-ML
-A Machine Learning project using panda,scikit-learn,tkinter to predict the prices of houses in California using linear regression.
+## 🛠️ Prerequisites & Installation
+This project requires Python 3.x. The GUI is built using **Tkinter** (Standard Library).
+
+To install the necessary Machine Learning libraries, run:
+`pip install -r requirements.txt`
